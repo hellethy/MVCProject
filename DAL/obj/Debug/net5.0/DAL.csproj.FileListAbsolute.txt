@@ -1,0 +1,12 @@
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\DAL.deps.json
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\DAL.dll
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\bin\Debug\net5.0\DAL.pdb
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\DAL.dll
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\refint\DAL.dll
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\DAL.pdb
+F:\route course  web\asp.net core backend ahmed nasr eldein\07 ASP.NET MVC\Tasks\G02 Demo Solution\Demo.DAL\obj\Debug\net5.0\ref\DAL.dll
